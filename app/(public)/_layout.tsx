@@ -14,7 +14,7 @@ const PublicLayout = () => {
       <Stack.Screen
         name="login"
         options={{
-          headerTitle: 'Litecheats Login',
+          headerTitle: 'Cheatswala Login',
         }}></Stack.Screen>
       <Stack.Screen
         name="register"

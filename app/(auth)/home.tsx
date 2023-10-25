@@ -12,7 +12,7 @@ const Home = () => {
         style={styles.avatar}
       />
       <Text style={styles.welcomeText}>
-        Welcome to Litecheats- {user?.emailAddresses[0].emailAddress} 🎉
+        Welcome to Cheatswala- {user?.emailAddresses[0].emailAddress} 🎉
       </Text>
     </View>
   );
